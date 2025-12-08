@@ -1,0 +1,2 @@
+allowedIps: "Authorized IPs (comma-separated)"
+allowedReferers: "Authorized referrer domains (comma-separated)"

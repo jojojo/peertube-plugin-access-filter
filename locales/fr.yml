@@ -1,0 +1,2 @@
+allowedIps: "Adresses IP autorisées (séparées par des virgules)"
+allowedReferers: "Référents (domaines) autorisés (séparés par des virgules)"
