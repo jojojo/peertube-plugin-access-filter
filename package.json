@@ -1,6 +1,6 @@
 {
   "name": "peertube-plugin-access-filter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "PeerTube plugin to restrict access to video streams by IP and/or referrer domains.",
   "author": "Johan Cappi",
   "license": "MIT",
