@@ -5,12 +5,22 @@
   "author": "Johan Cappi",
   "license": "MIT",
   "main": "main.js",
+
+  "keywords": [
+    "peertube-plugin",
+    "peertube",
+    "plugin",
+    "access",
+    "filter"
+  ],
+
+  "engines": {
+    "peertube": ">=7.0.0"
+  },
+
   "homepage": "https://github.com/jojojo/peertube-plugin-access-filter",
   "repository": {
     "type": "git",
     "url": "https://github.com/jojojo/peertube-plugin-access-filter.git"
-  },
-  "engine": {
-    "peertube": ">=7.0.0"
   }
 }
